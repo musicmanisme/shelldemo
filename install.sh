@@ -11,6 +11,7 @@ unzip
 git
 ntpdate
 samba
+expect
 #zabbix-get
 #httpd
 )
